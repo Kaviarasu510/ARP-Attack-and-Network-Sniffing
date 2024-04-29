@@ -71,5 +71,3 @@ Ettercap can be used as sniffing tool as illustrated below:
 
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
 
-## RESULT:
-The kali linux tools for ARP Attack and Network Sniffing were identified successfully
